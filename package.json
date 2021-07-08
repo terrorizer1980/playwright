@@ -74,7 +74,7 @@
     "proper-lockfile": "^4.1.1",
     "proxy-from-env": "^1.1.0",
     "rimraf": "^3.0.2",
-    "source-map-support": "^0.4.18",
+    "source-map-support": "^0.5.19",
     "stack-utils": "^2.0.3",
     "ws": "^7.4.6",
     "yazl": "^2.5.1"
