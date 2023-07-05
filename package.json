@@ -41,7 +41,7 @@
   "DEPS-NOTE": "Any non-test dependency must be added to the build_package.js script as well",
   "dependencies": {
     "@babel/code-frame": "^7.12.13",
-    "@babel/core": "^7.14.0",
+    "@babel/core": "^7.22.6",
     "@babel/plugin-proposal-class-properties": "^7.13.0",
     "@babel/plugin-proposal-dynamic-import": "^7.13.8",
     "@babel/plugin-proposal-export-namespace-from": "^7.12.13",
